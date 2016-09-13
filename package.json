@@ -1,0 +1,22 @@
+{
+  "name": "bi3-library",
+  "version": "1.0.0",
+  "description": "Library system for Brandix i3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nipunthathsara/bi3-library.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Thisal, Nipun, Pamodya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nipunthathsara/bi3-library/issues"
+  },
+  "homepage": "https://github.com/nipunthathsara/bi3-library#readme"
+}
